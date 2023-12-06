@@ -6,7 +6,7 @@
   "repository": "https://github.com/seav1/scalingo",
   "website": "https://scalingo.com",
   "env": {
-    "AGO_AUTH": {
+    "TOK": {
       "description": "AGO的Token",
       "value": "1"
     }, 
@@ -23,3 +23,4 @@
     "first-deploy": "npm install",
     "postdeploy": "npm start"
   }
+}
