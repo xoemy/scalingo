@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "stack": "scalingo-18",
+  "description": "nodejs-v1.0",
+  "logo": "https://scalingo.com/logo.svg",
+  "repository": "https://github.com/seav1/scalingo",
+  "website": "https://scalingo.com",
+  "env": {
+    "AGO_AUTH": {
+      "description": "AGO的Token",
+      "value": "1"
+    }, 
+    "NZ_SERVER": {
+      "description": "哪吒地址",
+      "value": "1"
+    },    
+    "NZ_KEY": {
+      "description": "哪吒密钥",
+      "value": "1"
+    }
+  },
+  "scripts": {
+    "first-deploy": "npm install",
+    "postdeploy": "npm start"
+  }
