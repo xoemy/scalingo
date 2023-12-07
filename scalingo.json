@@ -6,7 +6,7 @@
   "repository": "https://github.com/seav1/scalingo",
   "website": "https://scalingo.com",
   "env": {
-    "TOK": {
+    "AGO_AUTH": {
       "description": "AGO的Token",
       "value": "1"
     }, 
