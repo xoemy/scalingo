@@ -9,7 +9,7 @@ ENV NZ_KEY=''
 ENV AGO_AUTH=''
 
 ENV UUID=''
-ENV XPORT=
+ENV PORT=
 `````
 `````
 NZ_SERVER必须含端口，格式：域名:443
