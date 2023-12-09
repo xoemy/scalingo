@@ -10,10 +10,6 @@
       "description": "AGO的Token",
       "value": "xxx"
     }, 
-    "XPORT": {
-      "description": "端口",
-      "value": "33333"
-    }, 
     "NZ_SERVER": {
       "description": "哪吒地址",
       "value": "x.x.x:443"
