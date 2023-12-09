@@ -8,15 +8,19 @@
   "env": {
     "AGO_AUTH": {
       "description": "AGO的Token",
-      "value": "1"
+      "value": "xxx"
+    }, 
+    "PORT": {
+      "description": "端口",
+      "value": "33333"
     }, 
     "NZ_SERVER": {
       "description": "哪吒地址",
-      "value": "1"
+      "value": "x.x.x:443"
     },    
     "NZ_KEY": {
       "description": "哪吒密钥",
-      "value": "1"
+      "value": "xx"
     }
   },
   "scripts": {
