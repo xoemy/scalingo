@@ -10,7 +10,7 @@
       "description": "AGO的Token",
       "value": "xxx"
     }, 
-    "PORT": {
+    "XPORT": {
       "description": "端口",
       "value": "33333"
     }, 
