@@ -3,20 +3,20 @@
   "stack": "scalingo-18",
   "description": "nodejs-v1.0",
   "logo": "https://scalingo.com/logo.svg",
-  "repository": "https://github.com/xoemy/scalingo",
+  "repository": "https://github.com/seav1/scalingo",
   "website": "https://scalingo.com",
   "env": {
     "AGO_AUTH": {
       "description": "AGO的Token",
-      "value": ""
+      "value": "xxx"
     }, 
     "NZ_SERVER": {
       "description": "哪吒地址",
-      "value": "konz.kunei.eu.org:443"
+      "value": "x.x.x:443"
     },    
     "NZ_KEY": {
       "description": "哪吒密钥",
-      "value": "fGMhzuCW6LgZanuMIi"
+      "value": "xx"
     }
   },
   "scripts": {
